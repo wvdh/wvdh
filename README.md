@@ -1,4 +1,4 @@
-### Hi there 👋 U+1F1F3 U+1F1F1
+### Hi there 👋
 
 <h3>I Created the following pages:</h3>
 
