@@ -10,8 +10,8 @@
 
 <h3>Completed courses:</h3>
 
-[Coursera - John's Hopkins University - HTML, CSS and Javascript for Web Developers](https://www.coursera.org/learn/html-css-javascript-for-web-developers#modules) - [View my certificate](https://www.coursera.org/account/accomplishments/verify/HBV4AKU4ECVA)<br>
-[Stanford Online - SOE.YDB-SQL0001 Databases - Relational Databases and SQL](https://learning.edx.org/course/course-v1:StanfordOnline+SOE.YDB-SQL0001+2T2020/home) - [View my certificate](https://courses.edx.org/certificates/4491ccdbeb4f456e8f7c316ac0dc37da)
+[John's Hopkins University - Coursera HTML, CSS and Javascript for Web Developers](https://www.coursera.org/learn/html-css-javascript-for-web-developers#modules) - [View my certificate](https://www.coursera.org/account/accomplishments/verify/HBV4AKU4ECVA)<br>
+[Stanford University - SOE.YDB-SQL0001 Databases - Relational Databases and SQL](https://learning.edx.org/course/course-v1:StanfordOnline+SOE.YDB-SQL0001+2T2020/home) - [View my certificate](https://courses.edx.org/certificates/4491ccdbeb4f456e8f7c316ac0dc37da)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"><a href="https://www.w3schools.com/css/" rel="nofollow"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" style="max-width: 100%;">
