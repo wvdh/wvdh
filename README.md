@@ -1,4 +1,4 @@
-### Hi there 👋 :flag_netherlands: U+1F1F3 u+1F1F1
+### Hi there 👋 &#x1F1F3;&#x1F1F1;
 
 <h3>I Created the following pages:</h3>
 
