@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<h3>I Created the following pages:</h3>
+<h3>I have created the following pages:</h3>
 
 [Business-Card](https://wvdh.github.io/business-card/)<br>
 [My-Hometown](https://wvdh.github.io/My-Hometown/)<br>
