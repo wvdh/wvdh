@@ -2,6 +2,7 @@
 
 <h3>I have created the following pages:</h3>
 
+[Scoreboard](https://wvdh.github.io/Scoreboard/)<br>
 [Business-Card](https://wvdh.github.io/business-card/)<br>
 [My-Hometown](https://wvdh.github.io/My-Hometown/)<br>
 [Google-Clone](https://wvdh.github.io/Google-clone/)<br>
