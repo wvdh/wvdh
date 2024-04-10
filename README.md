@@ -2,10 +2,10 @@
 
 <h3>I have created the following pages:</h3>
 
+[Blackjack](https://wvdh.github.io/Blackjack/)<br>
 [Scoreboard](https://wvdh.github.io/Scoreboard/)<br>
 [Business-Card](https://wvdh.github.io/business-card/)<br>
 [My-Hometown](https://wvdh.github.io/My-Hometown/)<br>
-[Google-Clone](https://wvdh.github.io/Google-clone/)<br>
 [Passenger-Counter](https://wvdh.github.io/Passenger-counter/)<br>
 <h3>Currently learning:</h3>
 
