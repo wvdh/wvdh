@@ -9,7 +9,7 @@
 [Business-Card](https://wvdh.github.io/business-card/)<br>
 <h3>Currently learning:</h3>
 
-[Scrimba: The Frontend Career Path](https://scrimba.com/learn/frontend)<br>
+[Scrimba: The Frontend Developer Career Path](https://scrimba.com/learn/frontend)<br>
 
 <h3>Completed courses:</h3>
 
