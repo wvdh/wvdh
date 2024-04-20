@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<h3>I have created the following pages:</h3>
+<h3>I have made the following pages/apps:</h3>
 
 [Blackjack](https://wvdh.github.io/Blackjack/)<br>
 [Scoreboard](https://wvdh.github.io/Scoreboard/)<br>
