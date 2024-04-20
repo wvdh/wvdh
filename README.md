@@ -15,8 +15,8 @@
 
 30 Nov 2023 - [John's Hopkins University - Coursera - HTML, CSS and Javascript for Web Developers](https://www.coursera.org/learn/html-css-javascript-for-web-developers#modules) - [View my certificate](https://www.coursera.org/account/accomplishments/verify/HBV4AKU4ECVA)<br>
 4 Jan 2023 - [Stanford University Online - SOE.YDB-SQL0001 Databases - Relational Databases and SQL](https://learning.edx.org/course/course-v1:StanfordOnline+SOE.YDB-SQL0001+2T2020/home) - [View my certificate](https://courses.edx.org/certificates/4491ccdbeb4f456e8f7c316ac0dc37da) <br>
-23 Nov 2022 - [Betty Blocks - No Code - Essentials Next Gen](https://betty-exam.betty.app/home) - [View my certificate](https://betty-exam.betty.app/badge/no-code-essentials-nextgen/75a7a859-fcf3-4e45-8bcc-356288f7a24a/BBDBBAAB559D)
-
+23 Nov 2022 - [Betty Blocks - No Code - Essentials Next Gen](https://betty-exam.betty.app/home) - [View my certificate](https://betty-exam.betty.app/badge/no-code-essentials-nextgen/75a7a859-fcf3-4e45-8bcc-356288f7a24a/BBDBBAAB559D) <br>
+7 Apr 2021 - [Microsoft Azure Fundamentals](https://learn.microsoft.com/en-us/credentials/certifications/azure-fundamentals/?practice-assessment-type=certification)
 
 <h3 align="left">Languages and Tools:
 </h3>
