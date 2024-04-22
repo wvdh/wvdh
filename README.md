@@ -2,6 +2,7 @@
 
 <h3>I have made the following pages/apps:</h3>
 
+[Password Generator](https://wvdh.github.io/Password-Generator/)<br>
 [Blackjack](https://wvdh.github.io/Blackjack/)<br>
 [Scoreboard](https://wvdh.github.io/Scoreboard/)<br>
 [My-Hometown](https://wvdh.github.io/My-Hometown/)<br>
