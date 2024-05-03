@@ -8,6 +8,7 @@
 [My-Hometown](https://wvdh.github.io/My-Hometown/)<br>
 [Passenger-Counter](https://wvdh.github.io/Passenger-counter/)<br>
 [Business-Card](https://wvdh.github.io/business-card/)<br>
+[David Chu's China Bistro](https://github.io/module5-solution/)<br> 
 <h3>Currently learning:</h3>
 
 [Scrimba: The Frontend Developer Career Path](https://scrimba.com/learn/frontend)<br>
