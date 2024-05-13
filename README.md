@@ -2,7 +2,7 @@
 
 <h3>I have made the following pages/apps:</h3>
 
-[Metric/Imperial Unit Coversion](https://wvdh.github.io/unit-converter/)<br>
+[Metric/Imperial Unit Conversion](https://wvdh.github.io/unit-converter/)<br>
 [Password Generator](https://wvdh.github.io/Password-Generator/)<br>
 [Blackjack](https://wvdh.github.io/Blackjack/)<br>
 [Scoreboard](https://wvdh.github.io/Scoreboard/)<br>
