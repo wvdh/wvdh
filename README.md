@@ -23,7 +23,7 @@
 23 Nov 2022 - [Betty Blocks - No Code - Essentials Next Gen](https://betty-exam.betty.app/home) - [View my certificate](https://betty-exam.betty.app/badge/no-code-essentials-nextgen/75a7a859-fcf3-4e45-8bcc-356288f7a24a/BBDBBAAB559D)<br>
 07 Apr 2021 - [Microsoft Azure Fundamentals](https://learn.microsoft.com/en-us/credentials/certifications/azure-fundamentals/?practice-assessment-type=certification) - [View my certificate](https://www.credly.com/badges/71c16e09-8417-4857-9c25-81f181ad775b/linked_in)<br>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages, Technologies and Tools:</h3>
 <p align="left"><a href="https://www.w3schools.com/css/" rel="nofollow"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" style="max-width: 100%;"></a>
 <a href="https://www.w3schools.com/html/default.asp" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" style="max-width: 100%;"></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" rel="nofollow"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="35" height="35" style="max-width: 100%;"></a>
