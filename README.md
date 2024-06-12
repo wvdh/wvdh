@@ -2,7 +2,7 @@
 
 <h3>I have made the following pages/apps:</h3>
 
-[Oldagrm](https://wvdh.github.io/Oldagram/)<br>
+[Oldagram](https://wvdh.github.io/Oldagram/)<br>
 [We are the Champions](https://wvdh.github.io/we-are-the-champions/)<br>
 [Metric/Imperial Unit Conversion](https://wvdh.github.io/unit-converter/)<br>
 [Password Generator](https://wvdh.github.io/Password-Generator/)<br>
