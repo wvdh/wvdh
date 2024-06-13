@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<h3>I have made the following pages/apps:</h3>
+# I have made the following pages/apps:
 
 [Oldagram](https://wvdh.github.io/Oldagram/)<br>
 [We are the Champions](https://wvdh.github.io/we-are-the-champions/)<br>
@@ -11,11 +11,12 @@
 [My-Hometown](https://wvdh.github.io/My-Hometown/)<br>
 [Business-Card](https://wvdh.github.io/business-card/)<br>
 [David Chu's China Bistro](https://wvdh.github.io/module5-solution/)<br> 
-<h3>Currently learning:</h3>
+
+# Currently learning:
 
 [Scrimba: The Frontend Developer Career Path](https://scrimba.com/learn/frontend)<br>
 
-<h3>Completed courses:</h3>
+# Completed courses:
 
 30 Nov 2023 - [Johns Hopkins University - Coursera - HTML, CSS and Javascript for Web Developers](https://www.coursera.org/learn/html-css-javascript-for-web-developers#modules) - [View my certificate](https://www.coursera.org/account/accomplishments/verify/HBV4AKU4ECVA)<br>
 04 Jan 2023 - [Stanford University Online - SOE.YDB-SQL0001 Databases - Relational Databases and SQL](https://learning.edx.org/course/course-v1:StanfordOnline+SOE.YDB-SQL0001+2T2020/home) - [View my certificate](https://courses.edx.org/certificates/4491ccdbeb4f456e8f7c316ac0dc37da)<br>
