@@ -1,6 +1,6 @@
-### Hi there 👋
+# Hi there 👋
 
-# I have made the following pages/apps:
+## I have made the following pages/apps:
 
 [Oldagram](https://wvdh.github.io/Oldagram/)<br>
 [We are the Champions](https://wvdh.github.io/we-are-the-champions/)<br>
@@ -12,11 +12,11 @@
 [Business-Card](https://wvdh.github.io/business-card/)<br>
 [David Chu's China Bistro](https://wvdh.github.io/module5-solution/)<br> 
 
-# Currently learning:
+## Currently learning:
 
 [Scrimba: The Frontend Developer Career Path](https://scrimba.com/learn/frontend)<br>
 
-# Completed courses:
+## Completed courses:
 
 30 Nov 2023 - [Johns Hopkins University - Coursera - HTML, CSS and Javascript for Web Developers](https://www.coursera.org/learn/html-css-javascript-for-web-developers#modules) - [View my certificate](https://www.coursera.org/account/accomplishments/verify/HBV4AKU4ECVA)<br>
 04 Jan 2023 - [Stanford University Online - SOE.YDB-SQL0001 Databases - Relational Databases and SQL](https://learning.edx.org/course/course-v1:StanfordOnline+SOE.YDB-SQL0001+2T2020/home) - [View my certificate](https://courses.edx.org/certificates/4491ccdbeb4f456e8f7c316ac0dc37da)<br>
@@ -34,8 +34,9 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/wandavandenhoogen/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/Wanda_vd_Hoogen) 
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=flat&logo=github&logoColor=white) ![Bitwarden](https://img.shields.io/badge/bitwarden-%23175DDC.svg?style=flat&logo=bitwarden&logoColor=white) ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=flat&logo=confluence&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
+## 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=flat&logo=github&logoColor=white) ![Bitwarden](https://img.shields.io/badge/bitwarden-%23175DDC.svg?style=flat&logo=bitwarden&logoColor=white) ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=flat&logo=confluence&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) <a href= "https://www.bettyblocks.com/" rel="nofollow"><img src="https://avatars.githubusercontent.com/u/3342954?s=200&v=4;" alt="Betty Blocks" width="40" height="40" style="max-width: 100%;"></a>![image](https://github.com/wvdh/wvdh/assets/16451862/82336329-42fd-4070-9899-07c614561cfb)
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=wvdh&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=wvdh&theme=dark&hide_border=false)<br/>
