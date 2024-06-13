@@ -37,10 +37,10 @@
 ## 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=flat&logo=github&logoColor=white) ![Bitwarden](https://img.shields.io/badge/bitwarden-%23175DDC.svg?style=flat&logo=bitwarden&logoColor=white) ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=flat&logo=confluence&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) <a href= "https://www.bettyblocks.com/" rel="nofollow"><img src="https://avatars.githubusercontent.com/u/3342954?s=200&v=4;" alt="Betty Blocks" width="40" height="40" style="max-width: 100%;"></a>![image](https://github.com/wvdh/wvdh/assets/16451862/82336329-42fd-4070-9899-07c614561cfb)
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=wvdh&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=wvdh&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=wvdh&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=wvdh&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)![image](https://github.com/wvdh/wvdh/assets/16451862/1a4a21fe-486e-42e1-b717-330584c5f33b)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=wvdh&icon=0&color=1)](https://visitcount.itsvg.in)
