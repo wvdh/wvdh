@@ -11,9 +11,11 @@
 [Business-Card](https://wvdh.github.io/business-card/)<br>
 [David Chu's China Bistro](https://wvdh.github.io/module5-solution/)<br> 
 
+---
 ## ⌨️ Currently learning:
 [Scrimba: The Frontend Developer Career Path](https://scrimba.com/learn/frontend)<br>
 
+---
 ## 🏆 Completed courses:
 30 Nov 2023 - [Johns Hopkins University - Coursera - HTML, CSS and Javascript for Web Developers](https://www.coursera.org/learn/html-css-javascript-for-web-developers#modules) - [View my certificate](https://www.coursera.org/account/accomplishments/verify/HBV4AKU4ECVA)<br>
 04 Jan 2023 - [Stanford University Online - SOE.YDB-SQL0001 Databases - Relational Databases and SQL](https://learning.edx.org/course/course-v1:StanfordOnline+SOE.YDB-SQL0001+2T2020/home) - [View my certificate](https://courses.edx.org/certificates/4491ccdbeb4f456e8f7c316ac0dc37da)<br>
@@ -22,6 +24,7 @@
 
 </p><p dir="auto"><animated-image data-catalyst=""><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="max-width: 30%; display: inline-block;" data-target="animated-image.originalImage"></a></p>
 
+---
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/wandavandenhoogen/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Wanda_vd_Hoogen) 
 
