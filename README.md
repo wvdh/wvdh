@@ -32,8 +32,7 @@
 ## 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Betty Blocks](https://avatars.githubusercontent.com/u/3342954?s=23&v=4) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=flat&logo=github&logoColor=white) 
 
-![Betty Blocks](https://github.com/wvdh/wvdh/assets/16451862/8aea91a3-7dd4-42b0-82e0-4a2fbbd0e3e5)
-
+---
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=wvdh&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=wvdh&theme=dark&hide_border=false)<br/>
