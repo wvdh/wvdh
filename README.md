@@ -26,7 +26,7 @@
 </p><p dir="auto"><animated-image data-catalyst=""><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="max-width: 30%; display: inline-block;" data-target="animated-image.originalImage"></a></p>
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/wandavandenhoogen/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Wanda_vd_Hoogen) 
+[![](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/wandavandenhoogen/) [![](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Wanda_vd_Hoogen) 
 
 ---
 ## 💻 Tech Stack:
