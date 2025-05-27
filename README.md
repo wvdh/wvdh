@@ -16,6 +16,8 @@
 
 ---
 ## ⌨️ Currently learning:
+
+[Stanford| Code in Place: Python course - CS106A](https://codeinplace.stanford.edu/)<br>
 [Scrimba: The Frontend Developer Career Path](https://scrimba.com/learn/frontend)<br>
 
 ---
